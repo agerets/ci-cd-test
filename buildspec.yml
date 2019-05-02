@@ -5,6 +5,4 @@ phases:
     commands:
       - sudo npm i -g serverless
       - npm install
-  test:
-    commands:
       - npm test --coverage
