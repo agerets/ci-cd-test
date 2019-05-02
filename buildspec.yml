@@ -6,3 +6,4 @@ phases:
       - sudo npm i -g serverless
       - npm install
       - npm test --coverage
+      - sls deploy -v
